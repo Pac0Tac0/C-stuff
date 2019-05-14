@@ -7,3 +7,12 @@ c:\users\francisco j razo\documents\visual studio 2015\Projects\GitHubexample\Gi
 c:\users\francisco j razo\documents\visual studio 2015\Projects\GitHubexample\GitHubexample\obj\Debug\GitHubexample.csproj.GenerateResource.Cache
 c:\users\francisco j razo\documents\visual studio 2015\Projects\GitHubexample\GitHubexample\obj\Debug\GitHubexample.exe
 c:\users\francisco j razo\documents\visual studio 2015\Projects\GitHubexample\GitHubexample\obj\Debug\GitHubexample.pdb
+C:\Users\Oscar\Source\Repos\C-stuff\GitHubexample\GitHubexample\bin\Debug\GitHubexample.exe.config
+C:\Users\Oscar\Source\Repos\C-stuff\GitHubexample\GitHubexample\obj\Debug\GitHubexample.exe
+C:\Users\Oscar\Source\Repos\C-stuff\GitHubexample\GitHubexample\obj\Debug\GitHubexample.pdb
+C:\Users\Oscar\Source\Repos\C-stuff\GitHubexample\GitHubexample\bin\Debug\GitHubexample.exe
+C:\Users\Oscar\Source\Repos\C-stuff\GitHubexample\GitHubexample\bin\Debug\GitHubexample.pdb
+C:\Users\Oscar\Source\Repos\C-stuff\GitHubexample\GitHubexample\obj\Debug\GitHubexample.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\Source\Repos\C-stuff\GitHubexample\GitHubexample\obj\Debug\GitHubexample.Form1.resources
+C:\Users\Oscar\Source\Repos\C-stuff\GitHubexample\GitHubexample\obj\Debug\GitHubexample.Properties.Resources.resources
+C:\Users\Oscar\Source\Repos\C-stuff\GitHubexample\GitHubexample\obj\Debug\GitHubexample.csproj.GenerateResource.Cache
